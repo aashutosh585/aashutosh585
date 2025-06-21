@@ -6,6 +6,23 @@
   <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile GIF" />
 </div>
 
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
+
+<!-- Main Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashutosh585&theme=github_dark" />
+
+<!-- Repo Stats and Most Used Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashutosh585&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashutosh585&theme=github_dark" />
+
+<!-- General Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashutosh585&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashutosh585&theme=github_dark" />
+
+</div>
+
+
 ---
 
 ### 🛠️ Tech Stack
