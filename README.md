@@ -8,26 +8,6 @@
 
 ---
 
-<!-- Profile Summary Card -->
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshmaurya585&theme=github_dark" alt="Profile Details" />
-</div>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshmaurya585&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshmaurya585&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
----
-
-<!-- Trophy Showcase -->
-<p align="center">
-  <a href="https://github.com/ashutoshmaurya585/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshmaurya585" alt="Trophies"/></a>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <div align="center">
   <!-- Frontend -->
