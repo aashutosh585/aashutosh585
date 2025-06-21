@@ -52,6 +52,8 @@
     <img src="https://streak-stats.demolab.com?user=ashutoshmaurya585&theme=dark" alt="GitHub Streak"/>
   </a>
 </div>
+<!-- GitHub Streak Stats -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aashutosh585&theme=prussian" alt="GitHub Streak" /></a>
 
 ---
 
