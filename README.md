@@ -1,5 +1,4 @@
-[![An image of @yadlamani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yadlamani)](https://holopin.io/@yadlamani)
-[![](https://visitcount.itsvg.in/api?id=YadlaMani&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm Mani Yadla</h1>
 
 <h3 align="center">A full stack and web3 developer from India.</h3>
