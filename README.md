@@ -1,9 +1,9 @@
 <h1 align="center">
   <!-- spinning Earth -->
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="24px"/>
+  <img src="Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <!-- handshake -->
-  <img src="https://media.giphy.com/media/l0HlymJIwA2LSelIc/giphy.gif" width="40px" />
+  <img src="Hi.gif" width="40px" />
 </h1>
 
 
