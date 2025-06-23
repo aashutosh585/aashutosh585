@@ -35,8 +35,7 @@ Check out the **best of my projects** here 👉
 ![](https://github-readme-stats.vercel.app/api?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aashutosh585&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=transparent)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)](https://git.io/streak-stats)
 
 
 
