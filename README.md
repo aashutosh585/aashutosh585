@@ -32,39 +32,7 @@ Check out the **best of my projects** here 👉
 
 - ⚡ Fun fact **I am good at making conspiracy theories and fan theories.**
  
-
-<h1 style="margin-top:40px"> 🛠️ Languages and Tools : </h1>
-
-<h3 style="margin:15px 0px">Frontend Languages :</h3>
- 
-<div align="left" style="margin-bottom:25px">
-  <img alt="html" src="https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=red"/>
-  <img alt="Css" src="https://img.shields.io/badge/CSS-%23323330.svg?style=for-the-badge&logo=css3&logoColor=2862E9"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=EFD81D"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=23563D7C"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=23563D7C"/>
-  <img alt="React.js" src="https://img.shields.io/badge/React.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=23563D7C"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=23563D7C"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%23323330.svg?style=for-the-badge&logo=vue.js&logoColor=23563D7C"/>
-</div>
-<h3 style="margin:15px 0px">Backend Languages :</h3>
-
-<div align="left" >
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green"/>
-  <img alt="express.js" src="https://img.shields.io/badge/express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=8BBF3D"/>
-  <img alt="python" src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=EFD81D"/>
- 
-</div>
-<h3 style="margin-top:15px;">Database :</h3>
-
-<div align="left" > 
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=MongoDB&logoColor=0FA54D"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=DD8A00"/>
- 
-
-
-
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
