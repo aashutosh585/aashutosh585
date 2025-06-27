@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-##🚀 Proof of Work
+## 🚀 Proof of Work
 
 Check out the **best of my projects** here 👉
 
