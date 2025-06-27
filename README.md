@@ -1,11 +1,11 @@
 
 <h1 align="center" style="margin-top:20px">Hi 👋, I'm Ashutosh Maurya </h1>
  
-<h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer</h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## 🚀 Proof of Work
+#🚀 Proof of Work
 
 Check out the **best of my projects** here 👉
 
