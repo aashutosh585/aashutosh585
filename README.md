@@ -1,15 +1,4 @@
-<div id="header" align="center"> 
-  <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="100"/> 
-</div> 
-<br /> 
-<div id="badges" align="center" style="margin-top:20px"> 
-  <a href="https://www.linkedin.com/in/ashutosh-maurya-81b2072a0/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 
-  <a href="https://x.com/Ashutos86739582"> 
-    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 <h1 align="center" style="margin-top:20px">Hi 👋, I'm Ashutosh Maurya </h1>
  
 <h2 align="center" style="font-size:35px; color:#0357F7">Full Stack Web Developer</h2>
@@ -58,7 +47,18 @@ Check out the **best of my projects** here 👉
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)
 
 
-
+<!--<div id="header" align="center"> 
+  <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="100"/> 
+</div> 
+<br /> 
+<div id="badges" align="center" style="margin-top:20px"> 
+  <a href="https://www.linkedin.com/in/ashutosh-maurya-81b2072a0/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+  <a href="https://x.com/Ashutos86739582"> 
+    <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>-->
 
 
 
