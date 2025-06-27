@@ -14,11 +14,11 @@ Check out the **best of my projects** here 👉
 
 - 💬 Ask me about **Web development,MERN and DSA**
 
+- 💞️ I love to eat and code.
+
+- 😂 I use Github in light mode.
+
 - 📫 How to reach me **ashutoshmaurya585@gmail.com**
-
--  💞️ I love to eat and code.
-
--    😂 I use Github in light mode.
 
 ---
  
