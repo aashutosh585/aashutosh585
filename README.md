@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## 🚀 Proof of Work
+# 🚀 Proof of Work
 
 Check out the **best of my projects** here 👉
 
@@ -39,14 +39,17 @@ Check out the **best of my projects** here 👉
 
 ---
 
+# 📊 GitHub Stats:
+
 <h3 align="left">🔥 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutosh585&theme=dracula" alt="aashutosh585" /></a> </p>
 
-# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)
+
+---
 
 ### GSSOC(24) Badges 🪶
   </br>
