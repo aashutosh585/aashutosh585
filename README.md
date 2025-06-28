@@ -21,8 +21,6 @@ Check out the **best of my projects** here 👉
 - 😂 I use Github in light mode.
 
 - 📫 How to reach me **ashutoshmaurya585@gmail.com**
-
----
  
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
