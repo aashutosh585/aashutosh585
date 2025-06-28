@@ -48,6 +48,19 @@ Check out the **best of my projects** here 👉
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)
 
+### GSSOC(24) Badges 🪶
+  </br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
+<div align = "center"> 
+
 
 <!--<div id="header" align="center"> 
   <img src="https://i.postimg.cc/JncWVs8d/giphy-1-removebg-preview.png" width="100"/> 
