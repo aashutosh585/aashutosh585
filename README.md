@@ -46,7 +46,7 @@ Check out the **best of my projects** here 👉
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)
 
-![Green Line gif](Green%20Line.gif) ![Green Line gif](Green%20Line.gif) ![Green Line gif](Green%20Line.gif)
+---
 
 ### GSSOC(24) Badges 🪶
   </br>
