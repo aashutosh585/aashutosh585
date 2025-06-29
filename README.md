@@ -40,7 +40,7 @@ Check out the **best of my projects** here 👉
 
 ![Green Line gif](Green%20Line.gif) ![Green Line gif](Green%20Line.gif)
 ![Green Line gif](Green%20Line.gif)
-![Green Line gif](Green%20Line.gif) 
+
 
 ### 📊 GitHub Stats:
 
