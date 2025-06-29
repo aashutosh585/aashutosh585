@@ -38,7 +38,8 @@ Check out the **best of my projects** here 👉
 <h3 align="left">🔥 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutosh585&theme=dracula" alt="aashutosh585" /></a> </p>
 
----
+![Green Line gif](Green%20Line.gif)
+![Green Line gif](Green%20Line.gif)
 
 ### 📊 GitHub Stats:
 
