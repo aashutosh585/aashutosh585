@@ -47,6 +47,11 @@ Check out the **best of my projects** here 👉
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)
 
 ---
+<a align = "center" >
+  <img width="800px"  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />  
+</a>
+
+---
 
 ### GSSOC(24) Badges 🪶
   </br>
