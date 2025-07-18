@@ -29,13 +29,23 @@ Check out the **best of my projects** here 👉
 
 </p>
 
-### My Coding Profiles
-[<a href="https://codeforces.com/profile/alpha585" target="_blank">
+<h3>My Coding Profiles</h3>
+
+<a href="https://codeforces.com/profile/alpha585" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
-</a>](https://codeforces.com/profile/alpha585)
-[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/ashutoshm585)
-[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/Ashutosh585/)
-[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/ashutosh585/)
+</a>
+
+<a href="https://www.codechef.com/users/ashutoshm585" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+</a>
+
+<a href="https://leetcode.com/u/Ashutosh585/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/ashutosh585/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+</a>
 
 ---
 
