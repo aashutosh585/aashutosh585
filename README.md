@@ -61,7 +61,8 @@ Check out the **best of my projects** here 👉
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashutosh585&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=aashutosh585&theme=dark)
 
----
+
+## 🐍 GitHub Activity Graph
 <a align = "center" >
   <img width="800px"  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />  
 </a>
