@@ -29,23 +29,19 @@ Check out the **best of my projects** here 👉
 
 </p>
 
-<h3>My Coding Profiles</h3>
 
-<a href="https://codeforces.com/profile/alpha585" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
-</a>
+## 🏆 Competitive Programming Profiles
 
-<a href="https://www.codechef.com/users/ashutoshm585" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
-</a>
+<div align="center">
 
-<a href="https://leetcode.com/u/Ashutosh585/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
-</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alpha585)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ashutoshm585)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Ashutosh585/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ashutosh585/)
 
-<a href="https://www.geeksforgeeks.org/user/ashutosh585/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-</a>
+</div>
+
+
 
 ---
 
@@ -87,6 +83,24 @@ Check out the **best of my projects** here 👉
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
 <div align = "center"> 
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashutosh585&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💝 Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
+  
+  <p>⭐ Feel free to star my repositories if you find them useful!</p>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+</div>
 
 
 <!--<div id="header" align="center"> 
