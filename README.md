@@ -30,7 +30,7 @@ Check out the **best of my projects** here 👉
 </p>
 
 
-## 🏆 Competitive Programming Profiles
+### 🏆 Competitive Programming Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alpha585)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ashutoshm585)
@@ -70,7 +70,7 @@ Check out the **best of my projects** here 👉
 ---
 
 ### GSSOC(24) Badges 🪶
-  </br>
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -82,7 +82,7 @@ Check out the **best of my projects** here 👉
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
 <div align = "center"> 
 
-
+---
 
 ### 👀 Profile Views
 
