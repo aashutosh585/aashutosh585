@@ -84,7 +84,7 @@ Check out the **best of my projects** here 👉
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aashutosh585&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
