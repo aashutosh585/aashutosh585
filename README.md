@@ -82,15 +82,15 @@ Check out the **best of my projects** here 👉
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
 <div align = "center"> 
 
----
 
-# 👀 Profile Views
+
+### 👀 Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aashutosh585&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
----
+
 
 <div align="center">
   <h3>💝 Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
