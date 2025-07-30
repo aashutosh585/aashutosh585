@@ -29,8 +29,7 @@ Check out the **best of my projects** here 👉
 
 </p>
 
-
-### 🏆 Competitive Programming Profiles
+ # Coding Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/alpha585)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ashutoshm585)
