@@ -25,13 +25,7 @@ Check out the **best of my projects** here 👉
 
 
 ---
- 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Ashutos86739582" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashutosh-maurya-81b2072a0/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="ashutosh" height="30" width="40" /></a>
 
-</p>
 
  # Coding Profiles
 
