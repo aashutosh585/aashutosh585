@@ -21,7 +21,7 @@ Check out the **best of my projects** here 👉
 - 😂 I use Github in light mode.
 
 ### Visit My Portfolio  
-[![Portfolio Website](https://img.shields.io/badge/Visit-Portfolio-blue)](https://portfolio-wheat-eta-24.vercel.app/)
+[Click here to view my portfolio](https://portfolio-wheat-eta-24.vercel.app/)
 
  
 <h3 align="left">🤝 Connect with me:</h3>
