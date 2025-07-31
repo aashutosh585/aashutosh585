@@ -20,9 +20,11 @@ Check out the **best of my projects** here 👉
 
 - 😂 I use Github in light mode.
 
-### Visit My Portfolio  
+###  😉 Visit My Portfolio  
 [Click here to view my portfolio](https://portfolio-wheat-eta-24.vercel.app/)
 
+
+---
  
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
